@@ -2,7 +2,7 @@
 import PackageDescription
 
 let version = "1.0.0"
-let checksum = "7b30c25f806dbb691336a91f375ea6cee01d09809c140523053ee1dcb89d9b56"
+let checksum = "bcbc8ea21cbf14576c35d04a3ddd6122454d511f7e64bc1122bfee549ef8fddc"
 
 let package = Package(
     name: "FingprintAgent",
@@ -11,7 +11,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FingprintAgent",
-            url: "https://cdn.fingprint.com/ios/1.0.0/FingprintAgent-1.0.0-7b30c25f806dbb691336a91f375ea6cee01d09809c140523053ee1dcb89d9b56.xcframework.zip",
+            url: "https://cdn.fingprint.com/ios/1.0.0/FingprintAgent-1.0.0-bcbc8ea21cbf14576c35d04a3ddd6122454d511f7e64bc1122bfee549ef8fddc.xcframework.zip",
             checksum: checksum
         )
     ]
