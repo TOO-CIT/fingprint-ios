@@ -7,11 +7,11 @@
 
 ## Подключение
 
-Текущая версия — `1.1.0`.
+Текущая версия — `1.2.0`.
 
 1. В Xcode откройте **File → Add Package Dependencies**.
 2. Введите URL этого репозитория.
-3. Выберите **Up to Next Major Version** от `1.1.0`.
+3. Выберите **Up to Next Major Version** от `1.2.0`.
 4. Добавьте **FingprintAgent** в target приложения.
 
 ## Использование
